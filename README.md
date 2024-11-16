@@ -2,10 +2,10 @@
 
 Welcome to the **Bird Species Classification** application! This app uses machine learning to classify bird species from images. It allows you to upload an image of a bird, get predictions, and explore a gallery of bird species. 
 
-<img src="assets/ss1.png" width="200" />
-<img src="assets/ss2.png" width="200" />
-<img src="assets/ss3.png" width="200" />
-<img src="assets/ss4.png" width="200" />
+<img src="assets/ss1.png" width="600" />
+<img src="assets/ss2.png" width="600" />
+<img src="assets/ss3.png" width="600" />
+<img src="assets/ss4.png" width="600" />
 
 ## 🚀 Features
 - **Upload Image**: Upload an image of a bird for classification.
