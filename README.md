@@ -2,11 +2,17 @@
 
 Welcome to the **Bird Species Classification** application! This app uses machine learning to classify bird species from images. It allows you to upload an image of a bird, get predictions, and explore a gallery of bird species. 
 
+<img src="assets/ss1.png" width="600" />
+<img src="assets/ss2.png" width="600" />
+<img src="assets/ss3.png" width="600" />
+<img src="assets/ss4.png" width="600" />
+
 ## 🚀 Features
 - **Upload Image**: Upload an image of a bird for classification.
 - **Prediction**: Get accurate predictions on the bird species using a trained model.
 - **Gallery**: Explore a gallery with a wide variety of bird species.
 - **User-Friendly**: Easy-to-use interface for anyone to try.
+
 
 ## 🦾 Model Information
 This application uses a pre-trained model that is based on the **CUB-200-2011** dataset. The model has been trained to classify birds with high accuracy (around **90%**!). 🦉
@@ -22,7 +28,7 @@ The **CUB-200-2011** dataset can be accessed [here](https://www.kaggle.com/datas
 ### Steps to Run the App:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/bird-species-classification.git
+   git clone https://github.com/Fizm00/AvianSense.git
 2. **Clone the Repository**:
    ```bash
    pip install -r requirements.txt
