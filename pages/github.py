@@ -74,7 +74,7 @@ def show_github():
                 <span class="tech-badge">TorchVision</span>
                 <span class="tech-badge">Machine Learning</span>
             </div>
-            <a href="https://github.com/yourusername/bird-species-classifier" target="_blank" class="repo-link">
+            <a href="https://github.com/Fizm00/AvianSense" target="_blank" class="repo-link">
                 View Repository 🔗
             </a>
         </div>
@@ -108,7 +108,7 @@ def show_github():
                 <li>📝 Improve documentation</li>
                 <li>🧩 Submit pull requests</li>
             </ul>
-            <a href="https://github.com/yourusername/bird-species-classifier/issues" target="_blank" class="repo-link">
+            <a href="https://github.com/Fizm00/AvianSense/issues" target="_blank" class="repo-link">
                 Open Issues 🚀
             </a>
         </div>
@@ -121,7 +121,7 @@ def show_github():
             <h2>License and Usage</h2>
             <p>This project is open-source and available under the MIT License. 
             Feel free to use, modify, and distribute the code with proper attribution.</p>
-            <a href="https://github.com/yourusername/bird-species-classifier/blob/main/LICENSE" target="_blank" class="repo-link">
+            <a href="https://github.com/Fizm00/AvianSense/blob/main/LICENSE" target="_blank" class="repo-link">
                 View License 📄
             </a>
         </div>
