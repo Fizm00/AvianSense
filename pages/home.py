@@ -33,6 +33,7 @@ def show_home():
         text-align: left;
         font-size: 20px;
         margin-bottom: 30px;
+        text-align: justify;
     }
     .section-title {
         color: #4A628A;
@@ -55,7 +56,7 @@ def show_home():
     .metric-card {
         background-color: #7AB2D3;
         border-radius: 10px;
-        padding: 15px;
+        padding: 20px;
         text-align: center;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         transition: transform 0.3s;
@@ -110,7 +111,7 @@ def show_home():
             st.markdown("""
             <div class="feature-card">
                 <h4>🔍 Precise Identification</h4>
-                <p>Advanced AI model with 90% accuracy</p>
+                <p>Advanced machine learning model with 90% accuracy</p>
             </div>
             """, unsafe_allow_html=True)
         
@@ -125,7 +126,7 @@ def show_home():
         with col3:
             st.markdown("""
             <div class="feature-card">
-                <h4>📱 Easy to Use</h4>
+                <h4>📱 Easy to Use & user friendly</h4>
                 <p>Simple upload and instant results</p>
             </div>
             """, unsafe_allow_html=True)

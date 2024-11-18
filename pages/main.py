@@ -116,7 +116,7 @@ def show_main():
     <p class="description">
     <strong>Upload Guidelines:</strong>
     <ul>
-        <li>The image file must be in .jpg format.</li>
+        <li>The image file must be in .jpg and jpeg format.</li>
         <li>The uploaded image should be clear and prominently feature the bird as the main object.</li>
         <li>The file size should not exceed 200 MB.</li>
     </ul>

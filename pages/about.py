@@ -109,6 +109,6 @@ def show_about():
 
     st.markdown("""
     <div class="footer">
-        Created with ❤️ by Our Team | © 2024 All Rights Reserved
+        Made with ❤️ by Fizm | © 2024 All Rights Reserved
     </div>
     """, unsafe_allow_html=True)
