@@ -141,6 +141,10 @@ def show_gallery():
     subfolders = os.listdir(image_folder_path)
     bird_types = [subfolder for subfolder in subfolders if os.path.isdir(os.path.join(image_folder_path, subfolder))]
 
+    # Sorting bird_types by numeric order if the names start with a number
+    bird_types = sorted(bird_types, key=lambda x: int(x.split('.')[0]) if x.split('.')[0].isdigit() else float('inf'))
+
+
     search_term = st.text_input("Search for a bird species")
     
     if search_term:
