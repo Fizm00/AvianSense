@@ -11,7 +11,7 @@ st.set_page_config(
 
 pages = ["Home", "Upload", "Gallery", "About", "Help", "Github"]
 parent_dir = os.path.dirname(os.path.abspath(__file__))
-logo_path = os.path.join(parent_dir, "Avian_sense.svg")
+logo_path = os.path.join(parent_dir, "./Avian_sense.svg")
 urls = {}
 styles = {
     "nav": {
