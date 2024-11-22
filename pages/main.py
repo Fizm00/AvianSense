@@ -140,11 +140,6 @@ def show_main():
             </div>
             """, unsafe_allow_html=True)
             
-    st.markdown("""
-    <div class="footer">
-    Made with ❤️ by Fizm | © 2024 All Rights Reserved
-    </div>
-    """, unsafe_allow_html=True)
 
 # Run the main app
 if __name__ == "__main__":

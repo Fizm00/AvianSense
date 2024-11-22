@@ -186,10 +186,6 @@ def show_gallery():
             </div>
             """, unsafe_allow_html=True)
 
-    st.markdown("""
-    <div class="footer">
-        Made with ❤️ by Fizm | © 2024 All Rights Reserved
-    </div """, unsafe_allow_html=True)
 
 # Main execution
 if __name__ == "__main__":

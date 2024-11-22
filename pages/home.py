@@ -165,9 +165,3 @@ def show_home():
                 <p>"{testimonial}"</p>
             </div>
             """, unsafe_allow_html=True)
-
-    st.markdown("""
-    <div class="footer">
-    Made with ❤️ by Fizm | © 2024 All Rights Reserved
-    </div>
-    """, unsafe_allow_html=True)
