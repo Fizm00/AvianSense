@@ -78,7 +78,7 @@ def show_about():
 
     st.markdown("""
     <h2 class="section-title">About Us</h2>
-    <p class="section-content">This application was developed by a team of bird enthusiasts and data scientists. Our goal is to create a platform that promotes the appreciation of bird species from around the world. With this app, users can explore various bird species, learn about their characteristics, and gain knowledge about bird conservation efforts.</p>
+    <p class="section-content">This application was developed by a Fizm. Our goal is to create a platform that promotes the appreciation of bird species from around the world. With this app, users can explore various bird species, learn about their characteristics, and gain knowledge about bird conservation efforts.</p>
     """, unsafe_allow_html=True)
 
     st.markdown("""
