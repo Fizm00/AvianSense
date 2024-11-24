@@ -147,18 +147,3 @@ def show_help():
         </div>
     </div>
     """, unsafe_allow_html=True)
-
-    st.markdown("""
-    <div class="section video-section">
-        <h2 class="section-title"><i class="fas fa-video"></i>Video Tutorial</h2>
-        <button class="cta-button">Watch Tutorial</button>
-    </div>
-
-    <div class="section feedback-section">
-        <h2 class="section-title"><i class="fas fa-comment"></i>Feedback Form</h2>
-        <div class="feedback-form">
-            <textarea placeholder="Share your thoughts..." style="width:100%; height:150px;"></textarea>
-            <button class="cta-button" style="margin-top:15px;">Submit Feedback</button>
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
